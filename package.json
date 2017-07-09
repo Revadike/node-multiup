@@ -1,0 +1,19 @@
+{
+  "name": "multiup",
+  "version": "1.0.0",
+  "description": "Library for multiup.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royalgamer06/node-multiup.git"
+  },
+  "author": "Royalgamer06 <https://royalgamer06.ga>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Royalgamer06/node-multiup/issues"
+  },
+  "homepage": "https://github.com/Royalgamer06/node-multiup#readme"
+}
